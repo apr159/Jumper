@@ -1,0 +1,15 @@
+
+# Files for the Dalvik VM
+Jumper-android/*.dex
+
+
+# Generated files
+Jumper-android/bin/
+Jumper-desktop/bin/
+Jumper-desktop/
+Jumper/bin/
+Jumper-android/gen/
+
+# Gradle files
+.gradle/
+build/
