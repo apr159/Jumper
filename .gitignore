@@ -6,7 +6,7 @@ Jumper-android/*.dex
 # Generated files
 Jumper-android/bin/
 Jumper-desktop/bin/
-Jumper-desktop/
+Jumper-desktop/bin
 Jumper/bin/
 Jumper-android/gen/
 

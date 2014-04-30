@@ -1,0 +1,103 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+title
+  rotate: false
+  xy: 1, 1
+  size: 300, 251
+  orig: 300, 251
+  offset: 0, 0
+  index: -1
+hero-hit
+  rotate: false
+  xy: 303, 94
+  size: 80, 158
+  orig: 80, 158
+  offset: 0, 0
+  index: -1
+hero-normal
+  rotate: false
+  xy: 385, 103
+  size: 70, 149
+  orig: 70, 149
+  offset: 0, 0
+  index: -1
+hero-jump
+  rotate: false
+  xy: 457, 104
+  size: 60, 148
+  orig: 60, 148
+  offset: 0, 0
+  index: -1
+platform-exploding-2
+  rotate: false
+  xy: 519, 230
+  size: 100, 22
+  orig: 100, 22
+  offset: 0, 0
+  index: -1
+platform-exploding-3
+  rotate: false
+  xy: 519, 206
+  size: 100, 22
+  orig: 100, 22
+  offset: 0, 0
+  index: -1
+platform-exploding-4
+  rotate: false
+  xy: 621, 230
+  size: 100, 22
+  orig: 100, 22
+  offset: 0, 0
+  index: -1
+platform-exploding-1
+  rotate: false
+  xy: 519, 185
+  size: 100, 19
+  orig: 100, 19
+  offset: 0, 0
+  index: -1
+platform-moving
+  rotate: false
+  xy: 621, 209
+  size: 100, 19
+  orig: 100, 19
+  offset: 0, 0
+  index: -1
+platform-normal
+  rotate: false
+  xy: 723, 233
+  size: 100, 19
+  orig: 100, 19
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 303, 62
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+airplane
+  rotate: false
+  xy: 519, 155
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: false
+  xy: 303, 32
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 519, 123
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

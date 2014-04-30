@@ -1,0 +1,32 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: { 
+		default-font: { file: default-64.fnt },
+		text-font: { file: default-32.fnt } },
+com.badlogic.gdx.graphics.Color: {
+        green: { a: 1, b: 0, g: 1, r: 0 },
+        blue: { a: 1, b: 1, g: 0, r: 0 },
+        yellow: { a: 1, b: 0, g: 1, r: 1 },
+        white: { a: 1, b: 1, g: 1, r: 1 },
+        red: { a: 1, b: 0, g: 0, r: 1 },
+        gray:{ a: 1, b: 0.3, g: 0.3, r: 0.3 },
+        black: { a: 1, b: 0, g: 0, r: 0 }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+        default: { down: button_pressed, up: button_normal },
+        toggle: { down: button_normal, checked: button_normal, up: button_normal }
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+        default: { down: button_pressed, up: button_normal, font: text-font, fontColor: white },
+        toggle: { down: button_normal, checked: button_normal, up: button_normal, font: default-font, fontColor: white }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+        default: { background: slider_off, knob: slider_mark, knobAfter:slider_on }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+        default: { font: text-font, fontColor: white },
+        title: { font: default-font, fontColor: blue }
+},
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+        default: { checkboxOn: check_on, checkboxOff: check_off, font: default-font, fontColor: white }
+},
+}
